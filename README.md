@@ -1,0 +1,2 @@
+# NtlmRemoveAuth
+Remove NTLM authentication
